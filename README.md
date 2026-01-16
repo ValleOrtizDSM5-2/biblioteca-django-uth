@@ -79,4 +79,4 @@ biblioteca_django/
 - Cuatrimestre: 2026-1
 - Profesor: Bernardo Prado Diaz
 - GitHub: ValleOrtizDSM5-2
-- PythonAnywhere: ValleOrtizAgustin
+- PythonAnywhere: ValleOrtizDSM52
